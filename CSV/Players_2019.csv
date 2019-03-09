@@ -1,0 +1,59 @@
+playerid,teamName,lastName,firstName,Bats,Throws,borndate,year,League,HT,WT,cityName,regionID,orgName
+1,Louisville,Borden,Tim,R,R,,2019,ACC,,,,,Fr
+2,Louisville,Binelas,Alex,L,R,,2019,ACC,,,,,Fr
+3,Louisville,Leonard,Trey,L,R,,2019,ACC,,,,,Fr
+4,Louisville,Metzinger,Ben,R,R,,2019,ACC,,,,,Fr
+5,Louisville,Masterman,Cameron,R,R,,2019,ACC,,,,,Fr
+6,Louisville,Poland,Jared,R,R,,2019,ACC,,,,,Fr
+7,Louisville,Wright,Kerry,R,R,,2019,ACC,,,,,Fr
+8,Louisville,Benefield,Andrew,R,R,,2019,ACC,,,,,Fr
+9,Louisville,Lohman,Carter,L,L,,2019,ACC,,,,,Fr
+10,Louisville,Davis,Henry,R,R,,2019,ACC,,,,,Fr
+11,Louisville,Schmeltz,Garrett,L,L,,2019,ACC,,,,,Fr
+12,Louisville,Albanese,Glenn,R,R,,2019,ACC,,,,,Fr
+13,Louisville,Perkins,Jack,R,R,,2019,ACC,,,,,Fr
+14,Louisville,Zimmerman,Danny,L,L,,2019,ACC,,,,,Fr
+15,Louisville,Smith,Luke,R,R,,2019,ACC,,,,,Fr
+16,Brown,Fogell,Zach,,,,,,,,,,Fr
+17,Brown,Kuntz,Ryan,,,,,,,,,,Fr
+18,Brown,Wilder,Joshua,,,,,,,,,,Fr
+19,Brown,Lang,Chris,,,,,,,,,,Fr
+20,Brown,Hipp,Jackson,,,,,,,,,,Fr
+21,Brown,Strickland,Gregory,,,,,,,,,,Fr
+22,James Madison,Reifsnider,Travis,,,,,,,,,,
+23,James Madison,Harju,Brady,,,,,,,,,,
+24,James Madison,Dabney,Trevon,,,,,,,,,,
+25,James Madison,Novak,Kyle,,,,,,,,,,
+26,James Madison,Griff,Davonn,,,,,,,,,,
+27,James Madison,Willis,David,,,,,,,,,,
+28,James Madison,Zona,Nick,,,,,,,,,,
+29,James Madison,Bell,Carson,,,,,,,,,,
+30,James Madison,Cepullio,Dom,,,,,,,,,,
+31,James Madison,Williams,Joe,,,,,,,,,,
+32,Xavier,Shepski,Jake,,,,,,,,,,
+33,Xavier,Housinger,Jack,,,,,,,,,,
+34,Xavier,Flamm,Lane,,,,,,,,,,
+35,Connecticut,Chiovitti,Michael,,,,,,,,,,
+36,Connecticut,Gozzo,Paul,,,,,,,,,,
+37,Connecticut,Langer,David,,,,,,,,,,
+38,Connecticut,Winkel,Pat,,,,,,,,,,
+39,Connecticut,Brodnansky,Cole,,,,,,,,,,
+40,Connecticut,Lucas,Will,,,,,,,,,,
+41,Connecticut,Mayock,Angus,,,,,,,,,,
+42,Connecticut,Wang,Jimmy,,,,,,,,,,
+43,Connecticut,Haus,Kenny,,,,,,,,,,
+44,Connecticut,Wurster,Caleb,,,,,,,,,,
+45,Connecticut,Fedko,Kyle,,,,,,,,,,
+46,Eastern Kentucky,Lucio,Christian,,,,,,,,,,
+47,Eastern Kentucky,Brewer,Michael,,,,,,,,,,
+48,Eastern Kentucky,Weaver,Lyndon,,,,,,,,,,
+49,Eastern Kentucky,Ferris,Jacob,,,,,,,,,,
+50,Eastern Kentucky,Farley,John,,,,,,,,,,
+51,Eastern Kentucky,Labarbera,Brennan,,,,,,,,,,
+52,Eastern Kentucky,Jackson,Julian,,,,,,,,,,
+53,Morehead State,Layne,Ryan,,,,,,,,,,
+54,Morehead State,Hill,Stephen,,,,,,,,,,
+55,Morehead State,Peroni,Dom,,,,,,,,,,
+56,Morehead State,Weins,Landon,,,,,,,,,,
+57,Morehead State,Bakke,John,,,,,,,,,,
+58,Morehead State,Smith,Zack,,,,,,,,,,

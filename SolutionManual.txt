@@ -1,0 +1,9 @@
+Error #1: Unable to match the player in html file with any players in roster
+    Quick Fix:
+        1. Open Players_2019.csv
+        2. Add row at the end of file with the following information:
+            playerId: **Important must be unique
+            teamId:
+            firstName:
+            lastName:
+        3. Save file, close file, re-run main.py
